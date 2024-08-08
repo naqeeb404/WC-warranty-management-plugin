@@ -3,7 +3,7 @@
 Plugin Name: WooCommerce Warranty Management
 Description: Adds warranty management functionality to WooCommerce.
 Version: 1.0
-Author: Naqeeb
+Author: Naqeeb404
 */
 
 // Exit if accessed directly.
